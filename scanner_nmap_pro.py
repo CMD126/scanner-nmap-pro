@@ -2,7 +2,7 @@ import subprocess
 import threading
 import os
 
-# Cores discretas (branco, verde, vermelho)
+
 branco = "\033[1;37m"
 verde = "\033[1;32m"
 vermelho = "\033[1;31m"
