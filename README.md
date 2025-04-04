@@ -1,43 +1,57 @@
-Scanner Nmap Pro
+# 🕶️ Scanner Nmap Pro
 
-"Estás pronto para mergulhar fundo? A Matrix é só o começo."
+> _"Acorda, Neo. A Matrix tem-te._"
 
-Scanner Nmap Pro é um script avançado que te mostra tudo o que se passa nos bastidores da rede. Feito à medida para a comunidade Linux que domina a linha de comandos e não tem medo de descobrir o invisível.
+---
 
-Para que serve?
+**Scanner Nmap Pro** é uma ferramenta poderosa desenhada especialmente para a comunidade Linux. Dominas o terminal? Estás no sítio certo. Aqui, vais descobrir o que realmente acontece atrás das cortinas da rede.
 
-Este script foi desenhado para encontrar portas abertas, identificar serviços ativos e detetar vulnerabilidades escondidas. Não percas tempo com ferramentas básicas. Se é para fazer, faz bem feito.
+## 🎯 Missão
 
-Como usar
+Este script vai muito além do básico:
 
+- Identifica portas abertas com precisão.
+- Revela serviços ativos que estão escondidos.
+- Expõe vulnerabilidades que ninguém quer que descubras.
+
+## 🖥️ Como Utilizar
+
+Executa o script com poder absoluto:
+
+```bash
 sudo python3 scanner_nmap_pro.py
+```
 
-Insere os alvos separados por vírgula e observa o terminal a desvendar os segredos da rede em tempo real.
+Digita os teus alvos separados por vírgula e observa em tempo real o terminal revelar os mistérios da rede.
 
-Dependências
+## 📌 Pré-requisitos
 
-Nmap
+Certifica-te que tens instalados:
 
-Python 3.x
+- Nmap
+- Python 3.x
 
-Instala facilmente com:
+Instala tudo rapidamente com:
 
+```bash
 sudo apt install nmap
+```
 
-Queres mesmo entrar?
+## 🔴 O ponto sem retorno
 
-"Não há voltar atrás depois de veres o que está do outro lado."
+> _"Esta é a tua última oportunidade. Depois disto, não há volta atrás."_
 
-Usa o Scanner Nmap Pro para:
+---
 
-Encontrar vulnerabilidades antes que outros o façam.
+**Utiliza o Scanner Nmap Pro para:**
 
-Revelar informações que o sistema tenta esconder.
+- Estar um passo à frente nas vulnerabilidades.
+- Encontrar aquilo que o sistema tenta esconder.
+- Compreender realmente como as redes funcionam por dentro.
 
-Entender o verdadeiro funcionamento por trás dos sistemas que usas.
+## ⚠️ Aviso Crucial
 
-Aviso Importante
+_"Com grandes poderes vêm grandes responsabilidades."_
 
-"Aqui não há espaço para brincadeiras."
+**Age com consciência e ética.** Lembra-te: há sempre alguém a observar.
 
-Age com responsabilidade. Lembra-te que o poder deste script é grande, e alguém está sempre atento.
